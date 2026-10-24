@@ -10,7 +10,7 @@ This repo holds the releases. macOS on Apple Silicon.
 
 ## Install
 
-1. Download the `.dmg` from [Releases](https://github.com/imkkapoor/tungsten.wtf/releases).
+1. Download the `.dmg` from [Releases](https://github.com/tungsten-wtf/tungsten.wtf/releases).
 2. Drag Tungsten to `/Applications`.
 3. Run this once, or it will not open:
 
